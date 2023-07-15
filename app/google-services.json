@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050227503644",
+    "project_id": "proman-b125a",
+    "storage_bucket": "proman-b125a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050227503644:android:6009ea8ecdfede4d7225d9",
+        "android_client_info": {
+          "package_name": "at.ac.fhcampuswien.proman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050227503644-dko7bn6v7qm6sgkrum1c62cdj7244fvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlMf9TXe1c7lkDk2mNzooyBuyPLp2S8PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050227503644-dko7bn6v7qm6sgkrum1c62cdj7244fvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
